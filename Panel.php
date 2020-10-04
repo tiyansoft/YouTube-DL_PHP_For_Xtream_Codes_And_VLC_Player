@@ -4,7 +4,7 @@ error_reporting(0);
 /*
 BAB DUDA IS HERE
 
-Simple PHP Sscript For Xtream Codes + VLC Player Using youtube-dl TOOLS
+Simple PHP Script For Xtream Codes + VLC Player Using youtube-dl TOOLS
 REQUIRED LINUX OS WITH ROOT ACCESS
 
 --------------------------------------------------------------------------------------------------------
